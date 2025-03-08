@@ -3,6 +3,8 @@
 #include <string.h>
 #include <ctype.h>
 
+//jj
+
 int opcao;
 typedef struct{
     int codigo_aluno;
