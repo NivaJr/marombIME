@@ -1,0 +1,10 @@
+Aluno: Joao
+Codigo: 9829
+Nivel: Iniciante
+Tempo: 30 minutos
+
+Aluno: Maria
+Codigo: 5587
+Nivel: Intermediario
+Tempo: 45 minutos
+
